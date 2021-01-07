@@ -1,0 +1,9 @@
+soma = nota1 + nota2
+media = soma / 2
+nome = input("insira seu nome: ")
+
+nota1 = float(input("sua primeira nota: "))
+nota2 = float(input("sua segunda nota: "))
+
+print("olá", nome, "sua media das notas foram", media , "parabêns!" )
+print("este é um teste de programação feito por ENDLEY aluno do curso da ByLearn")
